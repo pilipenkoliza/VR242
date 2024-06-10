@@ -154,7 +154,7 @@ print()
 for i in drinks:
     print(i.name, i.price, i.volume)
 
-dishes[0].name = 'chipsi'
+dishes[0].name = 'fish'
 
 arrToJson(dishes, "dishes_out.json")
 
