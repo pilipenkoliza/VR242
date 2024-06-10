@@ -53,4 +53,4 @@ namespace portfolio::project {
   void AppendProject(userver::components::ComponentList &component_list) {
     component_list.Append<Project>();
   }
-} // namespace portfolio::project
+} 
