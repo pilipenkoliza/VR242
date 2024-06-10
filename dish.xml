@@ -1,12 +1,12 @@
 <dishes>
     <dish>
-        <name>Makaroni</name>
-        <price>200</price>
+        <name>spaghetti</name>
+        <price>250</price>
         <weight>400</weight>
     </dish>
     <dish>
-        <name>Grecha</name>
-        <price>150</price>
-        <weight>350</weight>
+        <name>soup</name>
+        <price>100</price>
+        <weight>300</weight>
     </dish>
 </dishes>
