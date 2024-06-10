@@ -1,12 +1,12 @@
 [
     {
-        "name": "chipsi",
-        "price": 250,
+        "name": "fish",
+        "price": 150,
         "weight": 300
     },
     {
-        "name": "sosiski jarenie",
-        "price": 150,
+        "name": "meat",
+        "price": 250,
         "weight": 400
     }
 ]
