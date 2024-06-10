@@ -1,10 +1,10 @@
 [
     {
         "name" : "cake",
-        "price": 250,
+        "price": 200,
         "weight": 100
     },{
-        "name" : "sosiski jarenie",
+        "name" : "tea",
         "price": 150,
         "weight": 400
     }
