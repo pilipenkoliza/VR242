@@ -158,7 +158,7 @@ dishes[0].name = 'fish'
 
 arrToJson(dishes, "dishes_out.json")
 
-items = [Dish('bolonieze', 250, 300), Dish('sosiski jarenie', 150, 400)]
+items = [Dish('cack', 250, 300), Dish('pancack', 150, 400)]
 
 to_xml(items, 'data.xml')
 
